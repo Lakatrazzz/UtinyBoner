@@ -1,0 +1,10 @@
+**/.vs/
+**/*.csproj.user
+**/packages.config
+
+Bins/
+Test/
+
+*.DotSettings.user
+*.sln
+uTinyRipper.sln
